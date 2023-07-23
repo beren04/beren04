@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beren04&show_icons=true&title_color=efa3df&text_color=efa3df&locale=en" alt="beren04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beren04&theme=dark" alt="beren04" /></p>
+
+
+![snake gif](https://github.com/beren04/beren04/blob/output/github-contribution-grid-snake.gif)
