@@ -1,4 +1,3 @@
-[![MasterHead]([https://twitter.com/beren01315478/photo](https://twitter.com/beren01315478/photo))
 
 <h1 align="center">Hi 👋, I'm Beren</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
