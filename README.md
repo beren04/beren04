@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#FAD4D8">Hi 👋, I'm Beren</h1>
-<h3 align="center" style="color:#FAD4D8">Computer Engineering student from Türkiye</h3>
+<h1 align="center" style="color:#FAD4D8; background-color: #FFEBEE; padding: 10px;">Hi 👋, I'm Beren</h1>
+<h3 align="center" style="color:#FAD4D8; background-color: #FFEBEE; padding: 10px;">Computer Engineering student from Türkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/beren01315478" target="blank"><img src="https://img.shields.io/twitter/follow/beren01315478?logo=twitter&style=for-the-badge" alt="beren01315478" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bereselitas@gmail.com**
 
-<h3 align="left" style="color:#FAD4D8">Connect with me:</h3>
+<h3 align="left" style="color:#FAD4D8; background-color: #FFEBEE; padding: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/030904brn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="030904brn" height="30" width="40" /></a>
 <a href="https://twitter.com/beren01315478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beren01315478" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 <a href="https://discord.gg/br0399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="br0399" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="color:#FAD4D8">Languages and Tools:</h3>
+<h3 align="left" style="color:#FAD4D8; background-color: #FFEBEE; padding: 10px;">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
