@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/beren01315478" target="blank"><img src="https://img.shields.io/twitter/follow/beren01315478?logo=twitter&style=for-the-badge" alt="beren01315478" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java etc.**
+                                    - 🌱 I’m currently learning **Python, Java etc.**
 
-- 📫 How to reach me **bereselitas@gmail.com**
+                                    - 📫 How to reach me **bereselitas@gmail.com**
 
 <h3 align="center" style="color:#FAD4D8; background-color: #FFEBEE; padding: 10px;">Connect with me:</h3>
 <p align="center">
