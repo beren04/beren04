@@ -26,7 +26,7 @@
 ## About me
 
 ```text
-🎓  Computer Engineering student from Türkiye
+🎓  Computer Engineer 
 🛡️  Currently focusing on Cybersecurity
 🔐  Interested in Penetration Testing & Security Research
 🤖  Exploring Machine Learning and AI in Cybersecurity
