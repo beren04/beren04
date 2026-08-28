@@ -30,7 +30,7 @@
 🛡️  Currently focusing on Cybersecurity
 🔐  Interested in Penetration Testing & Security Research
 🤖  Exploring Machine Learning and AI in Cybersecurity
-🌱  Always learning, building and improving">
+🌱  Always learning, building and improving
 ```
 
 </div>
