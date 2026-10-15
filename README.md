@@ -3,7 +3,7 @@
 
 # Hi, I'm Beren 👋
 
-### Computer Engineer · 
+### · Computer Engineer · 
 
 <br/>
 
