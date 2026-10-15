@@ -3,7 +3,7 @@
 
 # Hi, I'm Beren 👋
 
-### Computer Engineering Student · Cybersecurity Enthusiast
+### Computer Engineer · 
 
 <br/>
 
